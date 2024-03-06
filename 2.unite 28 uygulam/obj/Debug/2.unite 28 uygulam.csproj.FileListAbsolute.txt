@@ -1,0 +1,10 @@
+C:\Users\Seyda\source\repos\2.unite 28 uygulam\2.unite 28 uygulam\bin\Debug\2.unite 28 uygulam.exe.config
+C:\Users\Seyda\source\repos\2.unite 28 uygulam\2.unite 28 uygulam\bin\Debug\2.unite 28 uygulam.exe
+C:\Users\Seyda\source\repos\2.unite 28 uygulam\2.unite 28 uygulam\bin\Debug\2.unite 28 uygulam.pdb
+C:\Users\Seyda\source\repos\2.unite 28 uygulam\2.unite 28 uygulam\obj\Debug\2.unite 28 uygulam.csproj.AssemblyReference.cache
+C:\Users\Seyda\source\repos\2.unite 28 uygulam\2.unite 28 uygulam\obj\Debug\_2.unite_28_uygulam.Form1.resources
+C:\Users\Seyda\source\repos\2.unite 28 uygulam\2.unite 28 uygulam\obj\Debug\_2.unite_28_uygulam.Properties.Resources.resources
+C:\Users\Seyda\source\repos\2.unite 28 uygulam\2.unite 28 uygulam\obj\Debug\2.unite 28 uygulam.csproj.GenerateResource.cache
+C:\Users\Seyda\source\repos\2.unite 28 uygulam\2.unite 28 uygulam\obj\Debug\2.unite 28 uygulam.csproj.CoreCompileInputs.cache
+C:\Users\Seyda\source\repos\2.unite 28 uygulam\2.unite 28 uygulam\obj\Debug\2.unite 28 uygulam.exe
+C:\Users\Seyda\source\repos\2.unite 28 uygulam\2.unite 28 uygulam\obj\Debug\2.unite 28 uygulam.pdb
